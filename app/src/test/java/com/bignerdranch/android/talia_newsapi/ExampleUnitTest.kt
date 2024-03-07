@@ -1,4 +1,4 @@
-package com.example.newsapi
+package com.bignerdranch.android.talia_newsapi
 
 import org.junit.Test
 

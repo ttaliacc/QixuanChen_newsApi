@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NewsApi"
+rootProject.name = "talia_newsapi"
 include(":app")
+ 
